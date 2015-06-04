@@ -1,2 +1,3 @@
 add a new line
 add 2 
+Create branch is quick & simple.
