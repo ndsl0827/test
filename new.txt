@@ -2,3 +2,4 @@ add a new line
 add 2 
 Creating a new branch is quick and simple.
 merge test
+merge test 2
