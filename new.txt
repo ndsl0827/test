@@ -4,3 +4,5 @@ Creating a new branch is quick and simple.
 merge test
 merge test 2
 test commit without add
+
+test push
